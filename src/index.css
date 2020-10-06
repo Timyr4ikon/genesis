@@ -1,0 +1,45 @@
+@import "../node_modules/reset-css/reset.css";
+@import "../node_modules/animate.css/animate.css";
+@import "./fonts/fonts.css";
+@import "./variables.css";
+html {
+  box-sizing: border-box;
+}
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+  cursor: default;
+}
+*,
+*::after,
+*::before {
+  transition-duration: 0.25s;
+}
+body {
+  margin: 0 auto;
+  font-family: "Inter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.2;
+  -moz-osx-font-smoothing: grayscale;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  display: block;
+}
+button {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  display: block;
+  font-family: "Inter", sans-serif;
+}
+button:focus {
+  outline: none;
+}
+.container {
+  margin: 0 auto;
+  min-width: 320px;
+}

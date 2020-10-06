@@ -1,0 +1,22 @@
+:root {
+  --start-bottom-bg: rgba(255, 243, 235, 1);
+  --start-top-bg: #ffffff;
+  --finish-btn: rgba(255, 139, 55, 1);
+  --finish-title: #1c1c21;
+  --start-btn: rgba(255, 139, 55, 1);
+  --finish-btn-hover: rgba(255, 172, 112, 1);
+  --start-btn-hover: rgba(255, 172, 112, 1);
+  --finish-btn-active: rgba(232, 121, 40, 1);
+  --start-btn-active: rgba(232, 121, 40, 1);
+  --play-bg: rgba(245, 245, 247, 1);
+  --finish-bg: white;
+  --task-item-border: rgba(208, 208, 216, 1);
+  --task-item-letter: rgba(255, 139, 55, 1);
+  --task-item-variant: rgba(28, 28, 33, 1);
+  --task-item-border--hover: rgba(255, 139, 55, 1);
+  --task-item-bg--hover: rgba(255, 243, 235, 1);
+  --task-item-border--correct: rgba(71, 216, 103, 1);
+  --task-item-bg--correct: rgba(230, 250, 234, 1);
+  --task-item-bg--uncorrect: rgba(253, 238, 237, 1);
+  --task-item-border--uncorrect: rgba(236, 98, 89, 1);
+}

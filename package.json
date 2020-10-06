@@ -1,0 +1,67 @@
+{
+  "name": "reacktonx-movies",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://Timyr4ikon.github.io/genesis",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/jest": "^26.0.14",
+    "@types/node": "^14.11.4",
+    "@types/react": "^16.9.51",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-redux": "^7.1.9",
+    "@types/react-router-dom": "^5.1.5",
+    "animate.css": "^4.1.0",
+    "axios": "^0.19.2",
+    "gh-pages": "^3.1.0",
+    "moment": "^2.29.0",
+    "netlify-cli": "^2.50.0",
+    "node-sass": "^4.14.1",
+    "prop-types": "^15.7.2",
+    "qs": "^6.9.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "reset-css": "^5.0.1",
+    "shortid": "^2.2.15"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "jest": "jest",
+    "eslint": "./node_modules/.bin/eslint '**/*.{js,ts,tsx}'",
+    "eslint:fix": "npm run eslint -- --fix",
+    "format": "prettier-eslint '**/*.{js,ts,tsx}' --write"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.4.0",
+    "@typescript-eslint/parser": "^4.4.0",
+    "eslint-plugin-react": "^7.21.3",
+    "prettier-eslint": "^11.0.0"
+  }
+}

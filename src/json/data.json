@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "How old your elder brother was 10 years before you was born, mate?",
+    "variants": [
+      {
+        "id": 1,
+        "variant": "A",
+        "answer": "10 years",
+        "type": true
+      },
+      {
+        "id": 2,
+        "variant": "B",
+        "answer": "11 years",
+        "type": false
+      },
+      {
+        "id": 3,
+        "variant": "C",
+        "answer": "12 years",
+        "type": false
+      },
+      {
+        "id": 4,
+        "variant": "D",
+        "answer": "14 years",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "What chemical element is named after the evil underground gnome?",
+    "variants": [
+      {
+        "id": 1,
+        "variant": "A",
+        "answer": "Hafnium",
+        "type": false
+      },
+      {
+        "id": 2,
+        "variant": "B",
+        "answer": "Cobalt",
+        "type": true
+      },
+      {
+        "id": 3,
+        "variant": "C",
+        "answer": "Beryllium",
+        "type": false
+      },
+      {
+        "id": 4,
+        "variant": "D",
+        "answer": "Tellurium",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "In which of these capitals of the former Soviet republics the metro appeared earlier?",
+    "variants": [
+      {
+        "id": 1,
+        "variant": "A",
+        "answer": "Tbilisi",
+        "type": true
+      },
+      {
+        "id": 2,
+        "variant": "B",
+        "answer": "Yerevan",
+        "type": false
+      },
+      {
+        "id": 3,
+        "variant": "C",
+        "answer": "Minsk",
+        "type": false
+      },
+      {
+        "id": 4,
+        "variant": "D",
+        "answer": "Baku",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "How many times a day are the chimes of the Kremlin's Spasskaya Tower winding up?",
+    "variants": [
+      {
+        "id": 1,
+        "variant": "A",
+        "answer": "1",
+        "type": false
+      },
+      {
+        "id": 2,
+        "variant": "B",
+        "answer": "2",
+        "type": true
+      },
+      {
+        "id": 3,
+        "variant": "C",
+        "answer": "3",
+        "type": false
+      },
+      {
+        "id": 4,
+        "variant": "D",
+        "answer": "4",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Who was the first to receive the Nobel Prize in Literature?",
+    "variants": [
+      {
+        "id": 1,
+        "variant": "A",
+        "answer": "Novelist",
+        "type": false
+      },
+      {
+        "id": 2,
+        "variant": "B",
+        "answer": "Playwright",
+        "type": false
+      },
+      {
+        "id": 3,
+        "variant": "C",
+        "answer": "Poet",
+        "type": true
+      },
+      {
+        "id": 4,
+        "variant": "D",
+        "answer": "Essayist",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Which of the following was a page at the time of Catherine II?",
+    "variants": [
+      {
+        "id": 1,
+        "variant": "A",
+        "answer": "Fonvizin",
+        "type": false
+      },
+      {
+        "id": 2,
+        "variant": "B",
+        "answer": "Derzhavin",
+        "type": false
+      },
+      {
+        "id": 3,
+        "variant": "C",
+        "answer": "Radishchev",
+        "type": true
+      },
+      {
+        "id": 4,
+        "variant": "D",
+        "answer": "Karamzin",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "How many seas wash the Balkan Peninsula?",
+    "variants": [
+      {
+        "id": 1,
+        "variant": "A",
+        "answer": "3",
+        "type": false
+      },
+      {
+        "id": 2,
+        "variant": "B",
+        "answer": "4",
+        "type": false
+      },
+      {
+        "id": 3,
+        "variant": "C",
+        "answer": "5",
+        "type": false
+      },
+      {
+        "id": 4,
+        "variant": "D",
+        "answer": "6",
+        "type": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "There is no river with what name on the territory of Russia?",
+    "variants": [
+      {
+        "id": 1,
+        "variant": "A",
+        "answer": "neck",
+        "type": false
+      },
+      {
+        "id": 2,
+        "variant": "B",
+        "answer": "mouth",
+        "type": false
+      },
+      {
+        "id": 3,
+        "variant": "C",
+        "answer": "back",
+        "type": true
+      },
+      {
+        "id": 4,
+        "variant": "D",
+        "answer": "finger",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "What is a «lobogreyka» ?",
+    "variants": [
+      {
+        "id": 1,
+        "variant": "A",
+        "answer": "reaper",
+        "type": true
+      },
+      {
+        "id": 2,
+        "variant": "B",
+        "answer": "hat",
+        "type": false
+      },
+      {
+        "id": 3,
+        "variant": "C",
+        "answer": "disease",
+        "type": false
+      },
+      {
+        "id": 4,
+        "variant": "D",
+        "answer": "stove",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "What type of cavalry was intended for combat operations both on horseback and on foot?",
+    "variants": [
+      {
+        "id": 1,
+        "variant": "A",
+        "answer": "cuirassiers",
+        "type": false
+      },
+      {
+        "id": 2,
+        "variant": "B",
+        "answer": "lancers",
+        "type": false
+      },
+      {
+        "id": 3,
+        "variant": "C",
+        "answer": "dragoons",
+        "type": true
+      },
+      {
+        "id": 4,
+        "variant": "D",
+        "answer": "hussars",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "What name has no Pope adopted?",
+    "variants": [
+      {
+        "id": 1,
+        "variant": "A",
+        "answer": "Valentine",
+        "type": false
+      },
+      {
+        "id": 2,
+        "variant": "B",
+        "answer": "Eugene",
+        "type": false
+      },
+      {
+        "id": 3,
+        "variant": "C",
+        "answer": "George",
+        "type": true
+      },
+      {
+        "id": 4,
+        "variant": "D",
+        "answer": "Victor",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "In which German city was the future Empress of Russia Catherine II born?",
+    "variants": [
+      {
+        "id": 1,
+        "variant": "A",
+        "answer": "Wiesbaden",
+        "type": false
+      },
+      {
+        "id": 2,
+        "variant": "B",
+        "answer": "Zerbst",
+        "type": false
+      },
+      {
+        "id": 3,
+        "variant": "C",
+        "answer": "Stettin",
+        "type": true
+      },
+      {
+        "id": 4,
+        "variant": "D",
+        "answer": "Darmstadt",
+        "type": false
+      }
+    ]
+  }
+]

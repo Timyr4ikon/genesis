@@ -1,0 +1,44 @@
+.play {
+  padding-top: 16px;
+  background-color: var(--play-bg);
+  min-height: 100vh;
+  position: relative;
+}
+.play-menu {
+  display: block;
+  margin-right: 16px;
+  margin-left: auto;
+  cursor: pointer;
+}
+.play-menu path {
+  cursor: pointer;
+}
+.play-rewards__lg {
+  display: none;
+}
+.db {
+  display: block;
+}
+@media screen and (min-width: 1439px) {
+  .play {
+    padding-top: 0;
+    display: flex;
+  }
+  .play-task__lg {
+    display: block;
+    width: 1064px;
+    margin: 0 auto;
+    padding: 0 108px;
+    padding-left: 80px;
+    padding-right: 136px;
+    padding-top: 38px;
+  }
+  .play-menu {
+    display: none;
+  }
+  .play-rewards__lg {
+    display: block;
+    width: auto;
+    margin-left: auto;
+  }
+}
