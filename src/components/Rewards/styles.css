@@ -5,6 +5,7 @@
   padding-top: 10px;
   background-color: var(--play-bg);
   top: 55px;
+  height: 100%;
 }
 .rewards-list {
   display: flex;
@@ -12,6 +13,7 @@
   justify-content: flex-end;
   margin: 0 auto;
   width: max-content;
+  height: 100%;
 }
 .rewards-item {
   width: 320px;
