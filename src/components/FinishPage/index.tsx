@@ -100,7 +100,7 @@ const FinishPage: FunctionComponent = () => {
         <h1 className="finish-title">Total score:</h1>
         <h2 className="finish-score">{`$${currentReward} earned`}</h2>
         <button className="finish-btn">
-          <Link className="finish-link" to="/">
+          <Link className="finish-link" to="/genesis/">
             Try again
           </Link>
         </button>

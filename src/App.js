@@ -10,10 +10,10 @@ export default () => {
     <div className="container">
       <Suspense fallback={<></>}>
         <Switch>
-          <Route path="/" exact component={StartPage} />
-          <Route path="/play" exact component={PlayPage} />
-          <Route path="/finish" exact component={FinishPage} />
-          <Redirect to="/" />
+          <Route path="/genesis/" exact component={StartPage} />
+          <Route path="/genesis/play" exact component={PlayPage} />
+          <Route path="/genesis/finish" exact component={FinishPage} />
+          <Redirect to="/genesis/" />
         </Switch>
       </Suspense>
     </div>

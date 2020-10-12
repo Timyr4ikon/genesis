@@ -101,7 +101,7 @@ export default () => {
         <div className="start-content__lg">
           <h1 className="start-title">Who wants to be a millionaire?</h1>
           <button className="start-btn">
-            <Link className="start-link" to="/play">
+            <Link className="start-link" to="/genesis/play">
               Start
             </Link>
           </button>

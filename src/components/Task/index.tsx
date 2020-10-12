@@ -43,7 +43,7 @@ const Task = () => {
         if (currentQuestionPage === data.length - 1) {
           dispatch(setIsCardsOpen());
           dispatch(resetCurrentQuestionPage());
-          return history.replace("/finish");
+          return history.replace("/genesis/finish");
         } else {
           setTimeout(() => {
             dispatch(setIsCardsOpen());
@@ -55,7 +55,7 @@ const Task = () => {
         setTimeout(() => {
           dispatch(setIsCardsOpen());
           dispatch(resetCurrentQuestionPage());
-          return history.replace("/finish");
+          return history.replace("/genesis/finish");
         }, 3000);
       }
     }
