@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/genesis/static/css/main.03a7c7a1.chunk.css",
-    "main.js": "/genesis/static/js/main.680673c4.chunk.js",
-    "main.js.map": "/genesis/static/js/main.680673c4.chunk.js.map",
-    "runtime-main.js": "/genesis/static/js/runtime-main.b69a5c6b.js",
-    "runtime-main.js.map": "/genesis/static/js/runtime-main.b69a5c6b.js.map",
+    "main.js": "/genesis/static/js/main.0cb82304.chunk.js",
+    "main.js.map": "/genesis/static/js/main.0cb82304.chunk.js.map",
+    "runtime-main.js": "/genesis/static/js/runtime-main.69dca1a2.js",
+    "runtime-main.js.map": "/genesis/static/js/runtime-main.69dca1a2.js.map",
     "static/css/2.eb344eb2.chunk.css": "/genesis/static/css/2.eb344eb2.chunk.css",
     "static/js/2.c6de5708.chunk.js": "/genesis/static/js/2.c6de5708.chunk.js",
     "static/js/2.c6de5708.chunk.js.map": "/genesis/static/js/2.c6de5708.chunk.js.map",
     "static/css/3.29373b38.chunk.css": "/genesis/static/css/3.29373b38.chunk.css",
-    "static/js/3.d2b53b08.chunk.js": "/genesis/static/js/3.d2b53b08.chunk.js",
-    "static/js/3.d2b53b08.chunk.js.map": "/genesis/static/js/3.d2b53b08.chunk.js.map",
+    "static/js/3.33d4f4ee.chunk.js": "/genesis/static/js/3.33d4f4ee.chunk.js",
+    "static/js/3.33d4f4ee.chunk.js.map": "/genesis/static/js/3.33d4f4ee.chunk.js.map",
     "static/css/4.79c25d48.chunk.css": "/genesis/static/css/4.79c25d48.chunk.css",
-    "static/js/4.f2917967.chunk.js": "/genesis/static/js/4.f2917967.chunk.js",
-    "static/js/4.f2917967.chunk.js.map": "/genesis/static/js/4.f2917967.chunk.js.map",
+    "static/js/4.671a7a3f.chunk.js": "/genesis/static/js/4.671a7a3f.chunk.js",
+    "static/js/4.671a7a3f.chunk.js.map": "/genesis/static/js/4.671a7a3f.chunk.js.map",
     "index.html": "/genesis/index.html",
-    "precache-manifest.d6a77f800af42cc56739f4d129293512.js": "/genesis/precache-manifest.d6a77f800af42cc56739f4d129293512.js",
+    "precache-manifest.1fb4ccd1546b7d068a606f6f488b0e60.js": "/genesis/precache-manifest.1fb4ccd1546b7d068a606f6f488b0e60.js",
     "service-worker.js": "/genesis/service-worker.js",
     "static/css/2.eb344eb2.chunk.css.map": "/genesis/static/css/2.eb344eb2.chunk.css.map",
     "static/css/3.29373b38.chunk.css.map": "/genesis/static/css/3.29373b38.chunk.css.map",
@@ -25,10 +25,10 @@
     "static/media/index.css": "/genesis/static/media/Inter-SemiBold.acc1ad49.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.b69a5c6b.js",
+    "static/js/runtime-main.69dca1a2.js",
     "static/css/2.eb344eb2.chunk.css",
     "static/js/2.c6de5708.chunk.js",
     "static/css/main.03a7c7a1.chunk.css",
-    "static/js/main.680673c4.chunk.js"
+    "static/js/main.0cb82304.chunk.js"
   ]
 }
